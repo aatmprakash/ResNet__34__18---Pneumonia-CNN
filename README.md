@@ -1,1 +1,1 @@
-# ResNet__34__18---Pnuemonia-CNN
+# ResNet__34__18---Pneemonia-CNN
